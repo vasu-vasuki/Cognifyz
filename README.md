@@ -1,5 +1,9 @@
 Power BI Internship at Cognifyz Technologies
+
+
 Internship Overview
+
+
 During my internship at Cognifyz Technologies, I undertook seven tasks focused on Data Visualization. Each task involved importing data, conducting analysis, and creating interactive dashboards with Power BI. Below is a detailed breakdown of each task and the insights gained.
 
 Assigned Tasks
@@ -39,7 +43,9 @@ Task 7: Comprehensive Dashboard Integration
 - Outcome: A consolidated dashboard providing a holistic view of the data insights.
 
 Learning Outcomes
+
 Throughout these tasks, I developed a robust understanding of data visualization and analysis using Power BI. Each task contributed to honing my skills in data handling, exploration, and dashboard creation, culminating in a comprehensive view of the dataset.
 
 Gratitude
+
 I would like to thank Cognifyz Technologies for this incredible learning opportunity. The mentorship and practical experience have been invaluable in advancing my skills in data visualization and analysis.
