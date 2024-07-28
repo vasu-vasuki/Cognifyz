@@ -1,6 +1,6 @@
 Task : Data Exploration and Summary
-Objective: Understand and summarize key
-statistics in the dataset.
+       Objective: Understand and summarize key
+       statistics in the dataset.
 Steps:
 1.Data Import: Import the dataset into Power BI.
 2.Exploratory Analysis: Explore the dataset
